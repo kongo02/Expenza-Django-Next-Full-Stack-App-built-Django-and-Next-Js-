@@ -1,6 +1,6 @@
-# 📊 OBICS Finance Tracker
+# 📊 Finance Tracker
 
-OBICS is a sophisticated, full-stack financial management application designed for precision and ease of use. It leverages a decoupled architecture, combining a **Django REST Framework (DRF)** backend with a modern **Next.js 14** frontend to deliver a seamless, real-time budgeting experience.
+This app is a sophisticated, full-stack financial management application designed for precision and ease of use. It leverages a decoupled architecture, combining a **Django REST Framework (DRF)** backend with a modern **Next.js 14** frontend to deliver a seamless, real-time budgeting experience.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Next.js](https://img.shields.io/badge/frontend-Next.js%2014-black)
