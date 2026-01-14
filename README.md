@@ -13,6 +13,11 @@ A high-performance, full-stack financial management application designed for pre
     * **Backend:** UUID-based data modeling for enhanced security and non-predictable resource URIs.
 * **Modern UI/UX:** Built with **Tailwind CSS** and **DaisyUI**, featuring a sleek "Night Mode" theme and responsive design for mobile/desktop.
 
+  
+![labb](https://github.com/user-attachments/assets/05c8218e-2716-418d-801d-daee1a9284ff)
+
+![apppdf](https://github.com/user-attachments/assets/083e2f82-5548-4ed5-abed-f4483c9aca06)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -45,3 +50,4 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install django djangorestframework django-cors-headers
 python manage.py migrate
 python manage.py runserver
+
